@@ -1,0 +1,9 @@
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user001', 'ユーザー００１');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user002', 'ユーザー００２');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user003', 'ユーザー００３');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user004', 'ユーザー００４');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user005', 'ユーザー００５');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user006', 'ユーザー００６');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user007', 'ユーザー００７');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user008', 'ユーザー００８');
+INSERT INTO `test1`.`users` (`id`, `name`) VALUES ('user009', 'ユーザー００９');
